@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sujadh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Android Developing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Java and React JS fullstack developer.
 - 📫 How to reach me https://www.linkedin.com/in/sujadh-s-62b369200
 
 <!---
